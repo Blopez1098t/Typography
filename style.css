@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align: center;
+}
+p{
+  text-indent: 50px;  
+  padding-right:  1000px;
+}
